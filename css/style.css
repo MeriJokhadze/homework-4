@@ -1,0 +1,157 @@
+.dis-in-block{
+    display: inline-block;
+}
+
+
+/* header styles */
+
+.header-div{
+    margin: 69px 845px 69px 162px;
+    width: 1595px;
+    /* border: 2px double blue; */
+    
+}
+.nav-div{
+    vertical-align: middle;
+    text-align: center;
+    /* border: 2px dotted blueviolet; */
+    margin-left: 150px;
+       
+    /* margin: 16px 0 16px 0; */
+   
+}
+
+.logo-div{
+    /* border: 3px double black; */
+    vertical-align: middle;
+}
+
+li{
+    margin-right: 20px; 
+    line-height: 24px;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+li>a{
+    color: #274C5B;
+}
+/* section 1 */
+/* div-1 */
+
+main{
+    background-color: #F9F8F8;
+    padding-left: 260px;
+    padding-top: 50px;
+}
+
+.seaction > div{
+    margin-left: 260px;
+}
+h3{
+    font-family: 'Yellowtail', cursive;
+    font-size: 35px;
+    color: #7EB693;
+    /* border: 1px dotted red; */
+    width: 208px;
+}
+.first-div{
+    margin-bottom: 36px;
+}
+h1{
+    /* border: 1px dotted yellow; */
+    font-family: 'Inter', sans-serif;
+    color: #274C5B;
+    line-height: 58px;
+    width: 524px;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+
+.first-div-p{
+    width: 680px;
+    line-height: 30px;
+    font-family: 'Open Sans', sans-serif;
+    gap:10px;
+    
+}
+
+h4{
+    
+    gap: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #274C5B;
+    vertical-align: middle;
+}
+
+.topic-div{
+    
+    background-color: #ECECEC;
+    width: 334px;
+    height: 81px;
+    padding:  29px  91px 29px 27px ;
+}
+
+.div-two-text{
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 60px;
+    width: 504px;
+    gap: 10px;
+    line-height: 30px;
+    
+}
+
+.div-three-img{
+    width: 668px;
+    height: 579px;
+    margin-top: 10px;
+    /* border: 3px dotted lawngreen; */
+    vertical-align: top;
+}
+
+.two-div{
+    vertical-align: top;
+}
+
+
+/* second section */
+
+.title-last{
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin-top: 29px;
+    margin-left: 22px;
+}
+
+.last-p{
+    width: 184px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #525C60;
+    font-size: 18px;
+    /* margin-top: 20px; */
+    margin: 20px auto ;
+    vertical-align: middle;
+    line-height: 29px;
+    
+}
+
+.last-div{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    margin-right: 20px;
+    margin-top: 91px;
+
+}
+
+.last-div-1{
+    margin-left: 141px;
+}
