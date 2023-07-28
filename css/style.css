@@ -45,6 +45,9 @@ main{
     padding-left: 260px;
     padding-top: 50px;
 }
+left-div{
+    width: 671px;
+}
 
 .seaction > div{
     margin-left: 260px;
@@ -152,6 +155,15 @@ h4{
 
 }
 
-.last-div-1{
+.last-div-last{
+    width: 257px;
+    height: 335px;
+    background-color: #FFFFFF;
+    margin-top: 91px;
+}
+
+
+.return-div{
+    width: 1118px;
     margin-left: 141px;
 }
